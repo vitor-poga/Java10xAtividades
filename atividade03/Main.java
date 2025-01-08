@@ -59,7 +59,7 @@ public class Main {
                                  novoUzumaki.statusDaMissao = scanner.nextLine();
                                  novoUzumaki.habilidadeEspecial = "Chakra infinito";
 
-                                 ninja[numDeCadastros] = novoUzumaki; // Armazenar no array
+                                 ninja[numDeCadastros] = novoUzumaki;
 
                                  numDeCadastros++;
                                  System.out.println("Ninja cadastrado com sucesso!");
@@ -103,7 +103,7 @@ public class Main {
                                  novoHyuga.statusDaMissao = scanner.nextLine();
                                  novoHyuga.habilidadeEspecial = "Byakugan";
 
-                                 ninja[numDeCadastros] = novoHyuga; // Armazenar no array
+                                 ninja[numDeCadastros] = novoHyuga;
 
                                  numDeCadastros++;
                                  System.out.println("Ninja cadastrado com sucesso!");
@@ -124,7 +124,7 @@ public class Main {
                                  System.out.print("Digite aqui o status da missao do Ninja: ");
                                  novoNinja.statusDaMissao = scanner.nextLine();
 
-                                 ninja[numDeCadastros] = novoNinja; // Armazenar no array
+                                 ninja[numDeCadastros] = novoNinja;
 
                                  numDeCadastros++;
                                  System.out.println("Ninja cadastrado com sucesso!");
