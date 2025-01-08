@@ -12,8 +12,6 @@ public class Main {
         // Criando um array com objeto
         Ninja[] ninja = new Ninja[maximoCadastros];
 
-
-
         int opcaoMenu = 0;
         int numDeCadastros = 0;
         int posicao = 0 ;
@@ -164,42 +162,8 @@ public class Main {
 
         }
 
-
-
-
-
-
-
-
-
-
-        //Criando Objeto 1
-/*
-        System.out.println("----------------------------------------------------");
-
-        Ninja Naruto = new Ninja();
-        Naruto.nome = "Naruto Uzumaki";
-        Naruto.idade = 17;
-        Naruto.missao = "Derrotar Pain";
-        Naruto.nivelDificuldadeMissao = "SS";
-        Naruto.statusDaMissao = "Em andamento.";
-
-        Naruto.mostrarInformacoes();
-
-        System.out.println("----------------------------------------------------");
-
-        //Criando Objeto 2
-
-        Uchiha Sasuke = new Uchiha();
-        Sasuke.nome = "Sasuke Uchiha";
-        Sasuke.idade = 19;
-        Sasuke.missao = "Matar Itachi";
-        Sasuke.nivelDificuldadeMissao = "SS";
-        Sasuke.statusDaMissao = "Concluída.";
-        Sasuke.habilidadeEspecial = "Sharingan";
-
-        Sasuke.mostrarInformacoes();
-        System.out.println("----------------------------------------------------");
-*/
+        
     }
+
+    
 }
